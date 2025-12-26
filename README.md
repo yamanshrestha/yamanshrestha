@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I work in cybersecurity with a focus on **security engineering, detection, and incident response**.
+My interests center on building reliable security systems, improving detection quality, and analyzing real-world security signals.
 
-Security Engineer & SOC Analyst with a strong foundation in **incident detection, network security, and applied security research**.  
-I enjoy working close to real systems — monitoring, investigating, and improving security signals — and I’m especially interested in **detection engineering, security operations, and research-driven security engineering**.
 
 ---
 
