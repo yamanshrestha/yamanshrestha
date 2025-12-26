@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I’m Yaman 👋
 
 Security Engineer & SOC Analyst with a strong foundation in **incident detection, network security, and applied security research**.  
 I enjoy working close to real systems — monitoring, investigating, and improving security signals — and I’m especially interested in **detection engineering, security operations, and research-driven security engineering**.
@@ -125,14 +124,4 @@ I enjoy working close to real systems — monitoring, investigating, and improvi
 My research focuses on **practical security problems**, especially where detection quality, explainability, and operational usefulness matter.
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamanshrestha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamanshrestha&layout=compact&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=yamanshrestha&style=for-the-badge&color=blue)
-
----
-
 ⭐ If you’re interested in **security engineering, SOC operations, or applied security research**, feel free to reach out.
